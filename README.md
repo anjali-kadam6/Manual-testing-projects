@@ -1,2 +1,3 @@
-# Manual-testing-projects
-My manual testing projects
+# Test Cases In Excel
+
+My Test Cases In Excel
